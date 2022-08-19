@@ -1,10 +1,11 @@
 import React from 'react';
-import { Main } from '../components';
+import { Main, MostPicked } from '../components';
 
 const Home = () => {
   return (
     <div>
       <Main />
+      <MostPicked />
     </div>
   )
 }
