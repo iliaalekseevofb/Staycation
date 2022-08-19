@@ -22,7 +22,7 @@ const Navbar = () => {
   });
 
   return (
-    <div className='w-full h-20 px-10 flex justify-center items-center border-b border-neutral-200'>
+    <div className='w-full h-20 px-5 sm:px-10 flex justify-center items-center border-b border-neutral-200'>
       <div className='w-full max-w-screen-2xl flex justify-between items-center'>
         <Link to='/'><img src={logo} alt='logo' /></Link>
         <div className='w-[480px] hidden md:flex justify-between items-center text-lg'>
@@ -36,7 +36,7 @@ const Navbar = () => {
           </button>
           <div className={`absolute z-30 ${toggleMenu ? 'block' : 'hidden'} top-20 left-0 right-0 flex flex-col justify-center items-start bg-neutral-100`}>
             {navbarContent.map((item, index) => (
-              <a key={index} onClick={() => setToggleMenu(false)} href={item[1]} className='w-full px-5 py-3 text-secondary hover:text-primary duration-200 border-b border-neutral-200'>{item[0]}</a>
+              <a key={index} onClick={() => setToggleMenu(false)} href={item[1]} className='w-full px-5 py-3 text-lg text-secondary hover:text-primary duration-200 border-b border-neutral-200'>{item[0]}</a>
             ))}
           </div>
         </div>
