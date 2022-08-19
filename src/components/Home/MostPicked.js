@@ -24,6 +24,10 @@ const MostPicked = () => {
                 <p className='pr-1'>{item[3]}</p>
                 <span>per night</span>
               </div>
+              <div className='absolute z-30 bottom-6 left-6'>
+                <h3 className='text-2xl text-white'>{item[1]}</h3>
+                <h5 className='text-lg font-light text-neutral-200'>{item[2]}</h5>
+              </div>
             </div>
           ))}
         </div>
