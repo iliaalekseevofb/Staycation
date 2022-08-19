@@ -27,16 +27,16 @@ const Navbar = () => {
         <Link to='/'><img src={logo} alt='logo' /></Link>
         <div className='w-[480px] hidden md:flex justify-between items-center text-lg'>
           {navbarContent.map((item, index) => (
-            <a href={item[1]} className='hover:text-main duration-200'>{item[0]}</a>
+            <a href={item[1]} className='text-secondary hover:text-primary duration-200'>{item[0]}</a>
           ))}
         </div>
         <div className='block md:hidden' ref={menuRef}>
           <button onClick={() => setToggleMenu(!toggleMenu)}>
-            <FiMenu className='hover:text-main duration-200' size={32} />
+            <FiMenu className='text-secondary hover:text-primary duration-200' size={32} />
           </button>
           <div className={`absolute z-30 ${toggleMenu ? 'block' : 'hidden'} top-20 left-0 right-0 flex flex-col justify-center items-start bg-neutral-100`}>
             {navbarContent.map((item, index) => (
-              <a onClick={() => setToggleMenu(false)} href={item[1]} className='w-full px-5 py-3 hover:text-main duration-200 border-b border-neutral-200'>{item[0]}</a>
+              <a onClick={() => setToggleMenu(false)} href={item[1]} className='w-full px-5 py-3 text-secondary hover:text-primary duration-200 border-b border-neutral-200'>{item[0]}</a>
             ))}
           </div>
         </div>
