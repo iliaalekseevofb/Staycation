@@ -3,3 +3,8 @@ export {default as main} from './images/main.svg';
 export {default as baggage} from './icons/baggage.svg';
 export {default as camera} from './icons/camera.svg';
 export {default as location} from './icons/location.svg';
+export {default as blueOriginFams} from './images/blueOriginFams.png';
+export {default as bobox} from './images/bobox.png';
+export {default as oceanLand} from './images/oceanLand.png';
+export {default as starkHouse} from './images/starkHouse.png';
+export {default as vinnaVill} from './images/vinnaVill.png';
