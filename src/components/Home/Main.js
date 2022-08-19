@@ -9,7 +9,7 @@ const features = [
 
 const Main = () => {
   return (
-    <div className='w-full px-5 flex justify-center items-center mt-16'>
+    <div className='w-full px-10 flex justify-center items-center mt-16'>
       <div className='w-full max-w-screen-2xl flex justify-between items-center'>
         <div>
           <h1 className='w-[605px] text-secondary text-6xl leading-snug font-bold pb-6'>Forget Busy Work,<br />Start Next Vacation</h1>
@@ -27,9 +27,9 @@ const Main = () => {
             ))}
           </div>
         </div>
-        <div className='relative w-[680px] h-[520px] mb-12'>
-          <img className='absolute z-20 w-full h-full object-cover rounded-[20px] rounded-tl-[120px]' src={main} alt='main' />
-          <div className='absolute z-10 w-[680px] h-[520px] border-2 border-neutral-200 rounded-[15px] rounded-tl-[120px] top-12 left-12'></div>
+        <div className='relative w-[680px] h-[520px] mt-12'>
+          <img className='absolute z-20 w-full h-full object-cover rounded-[20px] rounded-tl-[120px] -top-12 -left-12' src={main} alt='main' />
+          <div className='absolute z-10 w-[680px] h-[520px] border-2 border-neutral-200 rounded-[15px] rounded-tl-[120px]'></div>
         </div>
       </div>
     </div>
