@@ -9,7 +9,7 @@ const features = [
 
 const Main = () => {
   return (
-    <div className='w-full px-5 sm:px-10 mt-10 2xl:mt-16 flex justify-center items-center'>
+    <div id='home' className='w-full px-5 sm:px-10 mt-10 2xl:mt-16 flex justify-center items-center'>
       <div className='w-full px-4 lg:px-0 max-w-screen-2xl flex flex-col-reverse lg:flex-row justify-between items-center'>
         <div className='w-full mt-8 lg:mt-0 flex flex-col justify-center items-center lg:block lg:w-auto'>
           <h1 className='w-full lg:w-[560px] 2xl:w-[605px] mb-6 text-secondary text-center lg:text-left text-3xl sm:text-4xl lg:text-5xl 2xl:text-6xl lg:leading-tight 2xl:leading-snug font-bold'>Forget Busy Work. Start Next Vacation</h1>
