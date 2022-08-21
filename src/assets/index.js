@@ -8,3 +8,7 @@ export {default as bobox} from './images/bobox.png';
 export {default as oceanLand} from './images/oceanLand.png';
 export {default as starkHouse} from './images/starkHouse.png';
 export {default as vinnaVill} from './images/vinnaVill.png';
+export {default as anggana} from './images/anggana.png';
+export {default as seattleRain} from './images/seattleRain.png';
+export {default as tabbyTown} from './images/tabbyTown.png';
+export {default as woddenPit} from './images/woddenPit.png';

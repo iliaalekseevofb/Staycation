@@ -1,11 +1,12 @@
 import React from 'react';
-import { Main, MostPicked } from '../components';
+import { Main, MostPicked, BeautyBackyard } from '../components';
 
 const Home = () => {
   return (
     <div>
       <Main />
       <MostPicked />
+      <BeautyBackyard />
     </div>
   )
 }
