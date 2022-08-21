@@ -19,7 +19,7 @@ const MostPicked = () => {
           {gridContent.map((item, index) => (
             <div key={index} className={`relative ${index === 0 ? 'col-span-1 sm:col-span-2 lg:col-span-1 row-span-1 lg:row-span-2 rounded-xl overflow-hidden' : 'col-span-1 lg:row-span-1 h-full rounded-xl overflow-hidden'}`}>
               <Link to={`place${[index + 1].toString()}`}>
-                <img src={item[0]} className='relative z-10 w-full h-full object-cover rounded-xl brightness-90 transition ease-in-out duration-500 hover:scale-125' alt='...' />
+                <img src={item[0]} className='relative z-20 w-full h-full object-cover rounded-xl brightness-90 transition ease-in-out duration-500 hover:scale-125' alt='...' />
                 <div className='absolute z-30 min-w-[180px] w-1/2 h-12 top-0 right-0 flex justify-center items-center rounded-tr-xl rounded-bl-xl bg-thirdly text-white text-lg'>
                   <span>$</span>
                   <p className='pr-1'>{item[3]}</p>
@@ -29,7 +29,6 @@ const MostPicked = () => {
                   <h3 className='text-2xl text-white'>{item[1]}</h3>
                   <h5 className='text-lg font-light text-neutral-200'>{item[2]}</h5>
                 </div>
-                <div className='absolute z-50 w-full h-full rounded-xl bg-gradient-to-b from-myGradient1 to-myGradient2 hover:to-myGradientHover'></div>
               </Link>
             </div>
           ))}
