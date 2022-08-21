@@ -12,7 +12,7 @@ const gridContent = [
 
 const MostPicked = () => {
   return (
-    <div id='categories' className='w-full px-5 sm:px-10 pt-10 2xl:pt-16 flex justify-center items-center'>
+    <div className='w-full px-5 sm:px-10 pt-10 2xl:pt-16 flex justify-center items-center'>
       <div className='w-full max-w-screen-2xl'>
         <h3 className='mb-5 text-secondary text-3xl font-medium'>Most Picked</h3>
         <div className='grid grid-rows-5 sm:grid-rows-3 lg:grid-rows-2 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>

@@ -1,12 +1,12 @@
 import React from 'react';
-import { Main, MostPicked, BeautyBackyard } from '../components';
+import { Main, MostPicked, Categories } from '../components';
 
 const Home = () => {
   return (
     <div>
       <Main />
       <MostPicked />
-      <BeautyBackyard />
+      <Categories />
     </div>
   )
 }
