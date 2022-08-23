@@ -20,3 +20,4 @@ export {default as podoWae} from './images/podoWae.png';
 export {default as psWood} from './images/psWood.png';
 export {default as silverRain} from './images/silverRain.png';
 export {default as staysHome} from './images/staysHome.png';
+export {default as family} from './images/family.png';

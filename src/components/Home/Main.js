@@ -29,7 +29,7 @@ const Main = () => {
         </div>
         <div className='relative w-full lg:w-[720px] h-[320px] sm:h-[400px] md:h-[560px] 2xl:w-[640px] 2xl:h-[500px] mt-8 ml-6 lg:ml-0'>
           <img className='absolute z-20 w-full h-full object-cover rounded-[20px] rounded-tl-[120px] -top-6 2xl:-top-10 -left-6 2xl:-left-10' src={main} alt='main' />
-          <div className='absolute z-10 w-full h-full border-2 border-neutral-200 rounded-[15px] rounded-tl-[120px]'></div>
+          <div className='absolute z-10 w-full h-full border-4 border-neutral-200 rounded-[15px] rounded-tl-[120px]'></div>
         </div>
       </div>
     </div>
