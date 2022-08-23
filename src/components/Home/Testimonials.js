@@ -4,7 +4,7 @@ import { AiFillStar } from 'react-icons/ai';
 
 const Testimonials = () => {
   return (
-    <div id='testimonials' className='w-full px-5 sm:px-10 mt-16 2xl:mt-24 mb-8 md:mb-16 flex justify-center items-center'>
+    <div id='testimonials' className='w-full px-5 sm:px-10 mt-16 2xl:mt-24 mb-16 md:mb-32 flex justify-center items-center'>
       <div className='w-full px-4 md:px-0 max-w-screen-2xl flex flex-col md:flex-row justify-start items-center'>
         <div className='relative w-full lg:w-[500px] 2xl:w-[500px] h-[320px] sm:h-[440px] lg:h-[540px] xl:h-[640px] mr-6 md:mr-0'>
           <img className='absolute z-20 w-full h-full object-cover rounded-[20px] rounded-br-[120px] top-6 2xl:top-10 left-6 2xl:left-10' src={family} alt='family' />
