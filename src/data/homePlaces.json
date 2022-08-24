@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "img": "assets/images/anggana.png"
+  },
+  {
+    "id": 2,
+    "img": "assets/images/blueOriginFams.png"
+  },
+  {
+    "id": 3,
+    "img": "assets/images/bobox.png"
+  },
+  {
+    "id": 4,
+    "img": "assets/images/cashVille.png"
+  },
+  {
+    "id": 5,
+    "img": "assets/images/greenPark.png"
+  },
+  {
+    "id": 6,
+    "img": "assets/images/minimal.png"
+  },
+  {
+    "id": 7,
+    "img": "assets/images/oceanLand.png"
+  },
+  {
+    "id": 8,
+    "img": "assets/images/oneFive.png"
+  },
+  {
+    "id": 9,
+    "img": "assets/images/podoWae.png"
+  },
+  {
+    "id": 10,
+    "img": "assets/images/psWood.png"
+  },
+  {
+    "id": 11,
+    "img": "assets/images/seattleRain.png"
+  },
+  {
+    "id": 12,
+    "img": "assets/images/silverRain.png"
+  },
+  {
+    "id": 13,
+    "img": "assets/images/starkHouse.png"
+  },
+  {
+    "id": 14,
+    "img": "assets/images/staysHome.png"
+  },
+  {
+    "id": 15,
+    "img": "assets/images/tabbyTown.png"
+  },
+  {
+    "id": 16,
+    "img": "assets/images/vinnaVill.png"
+  },
+  {
+    "id": 17,
+    "img": "assets/images/woddenPit.png"
+  }
+]

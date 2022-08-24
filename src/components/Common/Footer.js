@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { logo } from '../../assets';
+import dataCommon from '../../data/dataCommon.json';
 
 const footerContent = [
   ['For Beginners', ['New Account', 'Start Booking a Room', 'Use Payments']],
@@ -14,8 +14,8 @@ const Footer = () => {
       <div className='w-full max-w-screen-2xl flex flex-col justify-between items-center'>
         <div className='w-full sm:grid grid-cols-2 lg:grid-cols-4 grid-rows-2 lg:grid-rows-1 gap-16 mb-8 sm:mb-16'>
           <div className='mb-8 sm:mb-0'>
-            <Link to='/'><img src={logo} alt='logo' /></Link>
-            <h5 className='text-neutral-300 text-xl font-light mt-2'>We kaboom your beauty holiday instantly and memorable.</h5>
+            <Link to='/'><img src={dataCommon[0].icon} alt='logo' /></Link>
+            <h5 className='text-neutral-300 text-xl font-light mt-2'>{dataCommon[0].description}</h5>
           </div>
           {footerContent.map((item, index) => (
             <div key={index} className='mb-8 sm:mb-0'>

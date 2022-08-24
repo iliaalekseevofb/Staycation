@@ -1,0 +1,166 @@
+[
+  {
+    "id": "Main",
+    "img": "assets/images/main.png",
+    "icons": [
+      {
+        "icon": "assets/icons/baggage.svg",
+        "count": "80,409",
+        "title": "travelers"
+      },
+      {
+        "icon": "assets/icons/camera.svg",
+        "count": "862",
+        "title": "treasure"
+      },
+      {
+        "icon": "assets/icons/location.svg",
+        "count": "1,492",
+        "title": "cities"
+      }
+    ]
+  },
+  {
+    "id": "MostPicked",
+    "cards": [
+      {
+        "id": 1,
+        "img": "assets/images/blueOriginFams.png",
+        "price": "50",
+        "title": "Blue Origin Fams",
+        "location": "Jakarta, Indonesia"
+      },
+      {
+        "id": 2,
+        "img": "assets/images/oceanLand.png",
+        "price": "22",
+        "title": "Ocean Land",
+        "location": "Bandung, Indonesia"
+      },
+      {
+        "id": 3,
+        "img": "assets/images/starkHouse.png",
+        "price": "856",
+        "title": "Stark House",
+        "location": "Malang, Indonesia"
+      },
+      {
+        "id": 4,
+        "img": "assets/images/vinnaVill.png",
+        "price": "62",
+        "title": "Vinna Vill",
+        "location": "Malang, Indonesia"
+      },
+      {
+        "id": 5,
+        "img": "assets/images/bobox.png",
+        "price": "72",
+        "title": "Bobox",
+        "location": "Medan, Indonesia"
+      }
+    ]
+  },
+  {
+    "id": "BeautyBackyard",
+    "cards": [
+      {
+        "id": 6,
+        "img": "assets/images/tabbyTown.png",
+        "title": "Tabby Town",
+        "location": "Gunung Batu, Indonesia",
+        "popularChoice": 1
+      },
+      {
+        "id": 7,
+        "img": "assets/images/anggana.png",
+        "title": "Anggana",
+        "location": "Gunung Batu, Indonesia",
+        "popularChoice": 0
+      },
+      {
+        "id": 8,
+        "img": "assets/images/seattleRain.png",
+        "title": "Seattle Rain",
+        "location": "Jakarta, Indonesia",
+        "popularChoice": 0
+      },
+      {
+        "id": 9,
+        "img": "assets/images/woddenPit.png",
+        "title": "Wodden Pit",
+        "location": "Wonosobo, Indonesia",
+        "popularChoice": 0
+      }
+    ]
+  },
+  {
+    "id": "LivingRoom",
+    "cards": [
+      {
+        "id": 10,
+        "img": "assets/images/greenPark.png",
+        "title": "Green Park",
+        "location": "Tangerang, Indonesia",
+        "popularChoice": 0
+      },
+      {
+        "id": 11,
+        "img": "assets/images/podoWae.png",
+        "title": "Podo Wae",
+        "location": "Madiun, Indonesia",
+        "popularChoice": 0
+      },
+      {
+        "id": 12,
+        "img": "assets/images/silverRain.png",
+        "title": "Silver Rain",
+        "location": "Bandung, Indonesia",
+        "popularChoice": 0
+      },
+      {
+        "id": 13,
+        "img": "assets/images/cashville.png",
+        "title": "Cashville",
+        "location": "Kemang, Indonesia",
+        "popularChoice": 1
+      }
+    ]
+  },
+  {
+    "id": "KitchenSet",
+    "cards": [
+      {
+        "id": 14,
+        "img": "assets/images/psWood.png",
+        "title": "PS Wood",
+        "location": "Depok, Indonesia",
+        "popularChoice": 0
+      },
+      {
+        "id": 15,
+        "img": "assets/images/oneFive.png",
+        "title": "One Five",
+        "location": "Jakarta, Indonesia",
+        "popularChoice": 0
+      },
+      {
+        "id": 16,
+        "img": "assets/images/minimal.png",
+        "title": "Minimal",
+        "location": "Bogor, Indonesia",
+        "popularChoice": 1
+      },
+      {
+        "id": 17,
+        "img": "assets/images/staysHome.png",
+        "title": "Stays Home",
+        "location": "Wonosobo, Indonesia",
+        "popularChoice": 0
+      }
+    ]
+  },
+  {
+    "id": "Testimonials",
+    "img": "assets/images/family.png"
+  }
+]
