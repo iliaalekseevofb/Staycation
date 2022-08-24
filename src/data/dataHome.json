@@ -61,101 +61,109 @@
     ]
   },
   {
-    "id": "BeautyBackyard",
-    "cards": [
+    "id": "Categories",
+    "categories": [
       {
-        "id": 6,
-        "img": "assets/images/tabbyTown.png",
-        "title": "Tabby Town",
-        "location": "Gunung Batu, Indonesia",
-        "popularChoice": 1
+        "id": "beautyBackyard",
+        "title": "Houses with beauty backyard",
+        "cards": [
+          {
+            "id": 6,
+            "img": "assets/images/tabbyTown.png",
+            "title": "Tabby Town",
+            "location": "Gunung Batu, Indonesia",
+            "popularChoice": 1
+          },
+          {
+            "id": 7,
+            "img": "assets/images/anggana.png",
+            "title": "Anggana",
+            "location": "Gunung Batu, Indonesia",
+            "popularChoice": 0
+          },
+          {
+            "id": 8,
+            "img": "assets/images/seattleRain.png",
+            "title": "Seattle Rain",
+            "location": "Jakarta, Indonesia",
+            "popularChoice": 0
+          },
+          {
+            "id": 9,
+            "img": "assets/images/woddenPit.png",
+            "title": "Wodden Pit",
+            "location": "Wonosobo, Indonesia",
+            "popularChoice": 0
+          }
+        ]
       },
       {
-        "id": 7,
-        "img": "assets/images/anggana.png",
-        "title": "Anggana",
-        "location": "Gunung Batu, Indonesia",
-        "popularChoice": 0
+        "id": "livingRoom",
+        "title": "Hotels with large living room",
+        "cards": [
+          {
+            "id": 10,
+            "img": "assets/images/greenPark.png",
+            "title": "Green Park",
+            "location": "Tangerang, Indonesia",
+            "popularChoice": 0
+          },
+          {
+            "id": 11,
+            "img": "assets/images/podoWae.png",
+            "title": "Podo Wae",
+            "location": "Madiun, Indonesia",
+            "popularChoice": 0
+          },
+          {
+            "id": 12,
+            "img": "assets/images/silverRain.png",
+            "title": "Silver Rain",
+            "location": "Bandung, Indonesia",
+            "popularChoice": 0
+          },
+          {
+            "id": 13,
+            "img": "assets/images/cashville.png",
+            "title": "Cashville",
+            "location": "Kemang, Indonesia",
+            "popularChoice": 1
+          }
+        ]
       },
       {
-        "id": 8,
-        "img": "assets/images/seattleRain.png",
-        "title": "Seattle Rain",
-        "location": "Jakarta, Indonesia",
-        "popularChoice": 0
-      },
-      {
-        "id": 9,
-        "img": "assets/images/woddenPit.png",
-        "title": "Wodden Pit",
-        "location": "Wonosobo, Indonesia",
-        "popularChoice": 0
-      }
-    ]
-  },
-  {
-    "id": "LivingRoom",
-    "cards": [
-      {
-        "id": 10,
-        "img": "assets/images/greenPark.png",
-        "title": "Green Park",
-        "location": "Tangerang, Indonesia",
-        "popularChoice": 0
-      },
-      {
-        "id": 11,
-        "img": "assets/images/podoWae.png",
-        "title": "Podo Wae",
-        "location": "Madiun, Indonesia",
-        "popularChoice": 0
-      },
-      {
-        "id": 12,
-        "img": "assets/images/silverRain.png",
-        "title": "Silver Rain",
-        "location": "Bandung, Indonesia",
-        "popularChoice": 0
-      },
-      {
-        "id": 13,
-        "img": "assets/images/cashville.png",
-        "title": "Cashville",
-        "location": "Kemang, Indonesia",
-        "popularChoice": 1
-      }
-    ]
-  },
-  {
-    "id": "KitchenSet",
-    "cards": [
-      {
-        "id": 14,
-        "img": "assets/images/psWood.png",
-        "title": "PS Wood",
-        "location": "Depok, Indonesia",
-        "popularChoice": 0
-      },
-      {
-        "id": 15,
-        "img": "assets/images/oneFive.png",
-        "title": "One Five",
-        "location": "Jakarta, Indonesia",
-        "popularChoice": 0
-      },
-      {
-        "id": 16,
-        "img": "assets/images/minimal.png",
-        "title": "Minimal",
-        "location": "Bogor, Indonesia",
-        "popularChoice": 1
-      },
-      {
-        "id": 17,
-        "img": "assets/images/staysHome.png",
-        "title": "Stays Home",
-        "location": "Wonosobo, Indonesia",
-        "popularChoice": 0
+        "id": "kitchenSet",
+        "title": "Apartments with kitchen set",
+        "cards": [
+          {
+            "id": 14,
+            "img": "assets/images/psWood.png",
+            "title": "PS Wood",
+            "location": "Depok, Indonesia",
+            "popularChoice": 0
+          },
+          {
+            "id": 15,
+            "img": "assets/images/oneFive.png",
+            "title": "One Five",
+            "location": "Jakarta, Indonesia",
+            "popularChoice": 0
+          },
+          {
+            "id": 16,
+            "img": "assets/images/minimal.png",
+            "title": "Minimal",
+            "location": "Bogor, Indonesia",
+            "popularChoice": 1
+          },
+          {
+            "id": 17,
+            "img": "assets/images/staysHome.png",
+            "title": "Stays Home",
+            "location": "Wonosobo, Indonesia",
+            "popularChoice": 0
+          }
+        ]
       }
     ]
   },
