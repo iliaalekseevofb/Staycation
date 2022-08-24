@@ -169,6 +169,10 @@
   },
   {
     "id": "Testimonials",
+    "group": "Happy Family",
+    "stars": 5,
+    "text": "What a great trip with my family and I should try again next time soon ...",
+    "author": "Angga, Product Designer",
     "img": "assets/images/family.png"
   }
 ]
