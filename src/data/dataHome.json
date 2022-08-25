@@ -25,35 +25,35 @@
     "cards": [
       {
         "id": 1,
-        "img": "assets/images/blueOriginFams.png",
+        "img": "assets/images/BlueOriginFams/photo1.jpg",
         "price": "50",
         "title": "Blue Origin Fams",
         "location": "Jakarta, Indonesia"
       },
       {
         "id": 2,
-        "img": "assets/images/oceanLand.png",
+        "img": "assets/images/OceanLand/photo1.jpg",
         "price": "22",
         "title": "Ocean Land",
         "location": "Bandung, Indonesia"
       },
       {
         "id": 3,
-        "img": "assets/images/starkHouse.png",
+        "img": "assets/images/StarkHouse/photo1.jpg",
         "price": "856",
         "title": "Stark House",
         "location": "Malang, Indonesia"
       },
       {
         "id": 4,
-        "img": "assets/images/vinnaVill.png",
+        "img": "assets/images/VinnaVill/photo1.jpg",
         "price": "62",
         "title": "Vinna Vill",
         "location": "Malang, Indonesia"
       },
       {
         "id": 5,
-        "img": "assets/images/bobox.png",
+        "img": "assets/images/Bobox/photo1.jpg",
         "price": "72",
         "title": "Bobox",
         "location": "Medan, Indonesia"
@@ -69,28 +69,28 @@
         "cards": [
           {
             "id": 6,
-            "img": "assets/images/tabbyTown.png",
+            "img": "assets/images/TabbyTown/photo1.jpg",
             "title": "Tabby Town",
             "location": "Gunung Batu, Indonesia",
             "popularChoice": 1
           },
           {
             "id": 7,
-            "img": "assets/images/anggana.png",
+            "img": "assets/images/Anggana/photo1.jpg",
             "title": "Anggana",
             "location": "Gunung Batu, Indonesia",
             "popularChoice": 0
           },
           {
             "id": 8,
-            "img": "assets/images/seattleRain.png",
+            "img": "assets/images/SeattleRain/photo1.jpg",
             "title": "Seattle Rain",
             "location": "Jakarta, Indonesia",
             "popularChoice": 0
           },
           {
             "id": 9,
-            "img": "assets/images/woddenPit.png",
+            "img": "assets/images/WoddenPit/photo1.jpg",
             "title": "Wodden Pit",
             "location": "Wonosobo, Indonesia",
             "popularChoice": 0
@@ -103,28 +103,28 @@
         "cards": [
           {
             "id": 10,
-            "img": "assets/images/greenPark.png",
+            "img": "assets/images/GreenPark/photo1.jpg",
             "title": "Green Park",
             "location": "Tangerang, Indonesia",
             "popularChoice": 0
           },
           {
             "id": 11,
-            "img": "assets/images/podoWae.png",
+            "img": "assets/images/PodoWae/photo1.jpg",
             "title": "Podo Wae",
             "location": "Madiun, Indonesia",
             "popularChoice": 0
           },
           {
             "id": 12,
-            "img": "assets/images/silverRain.png",
+            "img": "assets/images/SilverRain/photo1.jpg",
             "title": "Silver Rain",
             "location": "Bandung, Indonesia",
             "popularChoice": 0
           },
           {
             "id": 13,
-            "img": "assets/images/cashville.png",
+            "img": "assets/images/Cashville/photo1.jpg",
             "title": "Cashville",
             "location": "Kemang, Indonesia",
             "popularChoice": 1
@@ -137,28 +137,28 @@
         "cards": [
           {
             "id": 14,
-            "img": "assets/images/psWood.png",
+            "img": "assets/images/PSWood/photo1.jpg",
             "title": "PS Wood",
             "location": "Depok, Indonesia",
             "popularChoice": 0
           },
           {
             "id": 15,
-            "img": "assets/images/oneFive.png",
+            "img": "assets/images/OneFive/photo1.jpg",
             "title": "One Five",
             "location": "Jakarta, Indonesia",
             "popularChoice": 0
           },
           {
             "id": 16,
-            "img": "assets/images/minimal.png",
+            "img": "assets/images/Minimal/photo1.jpg",
             "title": "Minimal",
             "location": "Bogor, Indonesia",
             "popularChoice": 1
           },
           {
             "id": 17,
-            "img": "assets/images/staysHome.png",
+            "img": "assets/images/StaysHome/photo1.jpg",
             "title": "Stays Home",
             "location": "Wonosobo, Indonesia",
             "popularChoice": 0

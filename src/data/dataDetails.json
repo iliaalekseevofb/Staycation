@@ -1,0 +1,512 @@
+[
+  {
+    "id": "placesInfo",
+    "places": [
+      {
+        "id": 1,
+        "title": "Blue Origin Fams",
+        "location": "Jakarta, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "50",
+        "features": {
+          "bedroom": "1",
+          "livingRoom": "1",
+          "bathroom": "2",
+          "diningRoom": "1",
+          "wifiSpeed": "35",
+          "unitReady": "4",
+          "refrigerator": "1",
+          "television": "2"
+        },
+        "photos": {
+          "photo1": "assets/images/BlueOriginFams/photo1.jpg",
+          "photo2": "assets/images/BlueOriginFams/photo2.jpg",
+          "photo3": "assets/images/BlueOriginFams/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a husband I was happy to arrange a great trip with my lovely family ... thank you!",
+          "author": "Jimmy, Software developer",
+          "img": "assets/images/BlueOriginFams/family.jpg"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Ocean Land",
+        "location": "Bandung, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "22",
+        "features": {
+          "bedroom": "1",
+          "livingRoom": "1",
+          "bathroom": "2",
+          "diningRoom": "1",
+          "wifiSpeed": "20",
+          "unitReady": "2",
+          "refrigerator": "1",
+          "television": "1"
+        },
+        "photos": {
+          "photo1": "assets/images/OceanLand/photo1.jpg",
+          "photo2": "assets/images/OceanLand/photo2.jpg",
+          "photo3": "assets/images/OceanLand/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Hannah, Invest Manager",
+          "img": "assets/images/OceanLand/family.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Stark House",
+        "location": "Malang, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "856",
+        "features": {
+          "bedroom": "4",
+          "livingRoom": "1",
+          "bathroom": "3",
+          "diningRoom": "1",
+          "wifiSpeed": "50",
+          "unitReady": "7",
+          "refrigerator": "1",
+          "television": "4"
+        },
+        "photos": {
+          "photo1": "assets/images/StarkHouse/photo1.jpg",
+          "photo2": "assets/images/StarkHouse/photo2.jpg",
+          "photo3": "assets/images/StarkHouse/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Anggi, Product Designer",
+          "img": "assets/images/StarkHouse/family.jpg"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Vinna Vill",
+        "location": "Malang, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "62",
+        "features": {
+          "bedroom": "2",
+          "livingRoom": "1",
+          "bathroom": "2",
+          "diningRoom": "1",
+          "wifiSpeed": "75",
+          "unitReady": "4",
+          "refrigerator": "2",
+          "television": "3"
+        },
+        "photos": {
+          "photo1": "assets/images/VinnaVill/photo1.jpg",
+          "photo2": "assets/images/VinnaVill/photo2.jpg",
+          "photo3": "assets/images/VinnaVill/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Jane, Goddess of thunder",
+          "img": "assets/images/VinnaVill/family.jpg"
+        }
+      },
+      {
+        "id": 5,
+        "title": "Bobox",
+        "location": "Medan, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "72",
+        "features": {
+          "bedroom": "3",
+          "livingRoom": "1",
+          "bathroom": "3",
+          "diningRoom": "1",
+          "wifiSpeed": "12",
+          "unitReady": "4",
+          "refrigerator": "2",
+          "television": "4"
+        },
+        "photos": {
+          "photo1": "assets/images/Bobox/photo1.jpg",
+          "photo2": "assets/images/Bobox/photo2.jpg",
+          "photo3": "assets/images/Bobox/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Lily, Seller",
+          "img": "assets/images/Bobox/family.jpg"
+        }
+      },
+      {
+        "id": 6,
+        "title": "Tabby Town",
+        "location": "Gunung Batu, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "120",
+        "features": {
+          "bedroom": "4",
+          "livingRoom": "2",
+          "bathroom": "4",
+          "diningRoom": "1",
+          "wifiSpeed": "100",
+          "unitReady": "8",
+          "refrigerator": "2",
+          "television": "5"
+        },
+        "photos": {
+          "photo1": "assets/images/TabbyTown/photo1.jpg",
+          "photo2": "assets/images/TabbyTown/photo2.jpg",
+          "photo3": "assets/images/TabbyTown/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Polly, Graphic Designer",
+          "img": "assets/images/TabbyTown/family.jpg"
+        }
+      },
+      {
+        "id": 7,
+        "title": "Anggana",
+        "location": "Gunung Batu, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "87",
+        "features": {
+          "bedroom": "2",
+          "livingRoom": "1",
+          "bathroom": "3",
+          "diningRoom": "1",
+          "wifiSpeed": "65",
+          "unitReady": "5",
+          "refrigerator": "1",
+          "television": "2"
+        },
+        "photos": {
+          "photo1": "assets/images/Anggana/photo1.jpg",
+          "photo2": "assets/images/Anggana/photo2.jpg",
+          "photo3": "assets/images/Anggana/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Kattie, Real Estate Agent",
+          "img": "assets/images/Anggana/family.jpg"
+        }
+      },
+      {
+        "id": 8,
+        "title": "Seattle Rain",
+        "location": "Jakarta, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "255",
+        "features": {
+          "bedroom": "5",
+          "livingRoom": "2",
+          "bathroom": "6",
+          "diningRoom": "2",
+          "wifiSpeed": "150",
+          "unitReady": "10",
+          "refrigerator": "3",
+          "television": "6"
+        },
+        "photos": {
+          "photo1": "assets/images/SeattleRain/photo1.jpg",
+          "photo2": "assets/images/SeattleRain/photo2.jpg",
+          "photo3": "assets/images/SeattleRain/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Elizabeth, Accountant",
+          "img": "assets/images/SeattleRain/family.jpg"
+        }
+      },
+      {
+        "id": 9,
+        "title": "Wodden Pit",
+        "location": "Wonosoba, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "92",
+        "features": {
+          "bedroom": "2",
+          "livingRoom": "1",
+          "bathroom": "2",
+          "diningRoom": "1",
+          "wifiSpeed": "40",
+          "unitReady": "4",
+          "refrigerator": "1",
+          "television": "2"
+        },
+        "photos": {
+          "photo1": "assets/images/WoddenPit/photo1.jpg",
+          "photo2": "assets/images/WoddenPit/photo2.jpg",
+          "photo3": "assets/images/WoddenPit/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Charlie, Barber",
+          "img": "assets/images/WoddenPit/family.jpg"
+        }
+      },
+      {
+        "id": 10,
+        "title": "Green Park",
+        "location": "Tangerang, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "54",
+        "features": {
+          "bedroom": "1",
+          "livingRoom": "1",
+          "bathroom": "1",
+          "diningRoom": "1",
+          "wifiSpeed": "40",
+          "unitReady": "2",
+          "refrigerator": "1",
+          "television": "2"
+        },
+        "photos": {
+          "photo1": "assets/images/GreenPark/photo1.jpg",
+          "photo2": "assets/images/GreenPark/photo2.jpg",
+          "photo3": "assets/images/GreenPark/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Sarrah, Manager",
+          "img": "assets/images/GreenPark/family.jpg"
+        }
+      },
+      {
+        "id": 11,
+        "title": "Podo Wae",
+        "location": "Madiun, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "173",
+        "features": {
+          "bedroom": "3",
+          "livingRoom": "1",
+          "bathroom": "3",
+          "diningRoom": "1",
+          "wifiSpeed": "75",
+          "unitReady": "4",
+          "refrigerator": "1",
+          "television": "4"
+        },
+        "photos": {
+          "photo1": "assets/images/PodoWae/photo1.jpg",
+          "photo2": "assets/images/PodoWae/photo2.jpg",
+          "photo3": "assets/images/PodoWae/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Lara, Interior Designer",
+          "img": "assets/images/PodoWae/family.jpg"
+        }
+      },
+      {
+        "id": 12,
+        "title": "Silver Rain",
+        "location": "Bandung, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "200",
+        "features": {
+          "bedroom": "4",
+          "livingRoom": "2",
+          "bathroom": "5",
+          "diningRoom": "1",
+          "wifiSpeed": "150",
+          "unitReady": "7",
+          "refrigerator": "2",
+          "television": "5"
+        },
+        "photos": {
+          "photo1": "assets/images/SilverRain/photo1.jpg",
+          "photo2": "assets/images/SilverRain/photo2.jpg",
+          "photo3": "assets/images/SilverRain/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Jenny, Software Developer",
+          "img": "assets/images/SilverRain/family.jpg"
+        }
+      },
+      {
+        "id": 13,
+        "title": "Cashville",
+        "location": "Kemang, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "54",
+        "features": {
+          "bedroom": "2",
+          "livingRoom": "1",
+          "bathroom": "1",
+          "diningRoom": "1",
+          "wifiSpeed": "15",
+          "unitReady": "3",
+          "refrigerator": "1",
+          "television": "2"
+        },
+        "photos": {
+          "photo1": "assets/images/Cashville/photo1.jpg",
+          "photo2": "assets/images/Cashville/photo2.jpg",
+          "photo3": "assets/images/Cashville/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Beverly, Business Assistant",
+          "img": "assets/images/Cashville/family.jpg"
+        }
+      },
+      {
+        "id": 14,
+        "title": "PS Wood",
+        "location": "Depok, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "89",
+        "features": {
+          "bedroom": "2",
+          "livingRoom": "1",
+          "bathroom": "2",
+          "diningRoom": "1",
+          "wifiSpeed": "30",
+          "unitReady": "4",
+          "refrigerator": "1",
+          "television": "3"
+        },
+        "photos": {
+          "photo1": "assets/images/PSWood/photo1.jpg",
+          "photo2": "assets/images/PSWood/photo2.jpg",
+          "photo3": "assets/images/PSWood/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Rosy",
+          "img": "assets/images/PSWood/fa,ily.jpg"
+        }
+      },
+      {
+        "id": 15,
+        "title": "One Five",
+        "location": "Jakarta, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "45",
+        "features": {
+          "bedroom": "2",
+          "livingRoom": "1",
+          "bathroom": "1",
+          "diningRoom": "1",
+          "wifiSpeed": "20",
+          "unitReady": "2",
+          "refrigerator": "1",
+          "television": "2"
+        },
+        "photos": {
+          "photo1": "assets/images/OneFive/photo1.jpg",
+          "photo2": "assets/images/OneFive/photo2.jpg",
+          "photo3": "assets/images/OneFive/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Wesley",
+          "img": "assets/images/OneFive/family.jpg"
+        }
+      },
+      {
+        "id": 16,
+        "title": "Minimal",
+        "location": "Bogor, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "95",
+        "features": {
+          "bedroom": "3",
+          "livingRoom": "1",
+          "bathroom": "3",
+          "diningRoom": "1",
+          "wifiSpeed": "80",
+          "unitReady": "5",
+          "refrigerator": "2",
+          "television": "3"
+        },
+        "photos": {
+          "photo1": "assets/images/Minimal/photo1.jpg",
+          "photo2": "assets/images/Minimal/photo2.jpg",
+          "photo3": "assets/images/Minimal/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Maddy, Nurse",
+          "img": "assets/images/Minimal/family.jpg"
+        }
+      },
+      {
+        "id": 17,
+        "title": "Stays Home",
+        "location": "Wonosoba, Indonesia",
+        "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development. Minimal techno is thought to have been originally developed in the early 1990s by Detroit-based producers Robert Hood and Daniel Bell. Such trends saw the demise of the soul-infused techno that typified the original Detroit sound. Robert Hood has noted that he and Daniel Bell both realized something was missing from techno in the post-rave era. Design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. The national agency for design: enabling Singapore to use design for economic growth and to make lives better.",
+        "price": "125",
+        "features": {
+          "bedroom": "3",
+          "livingRoom": "1",
+          "bathroom": "4",
+          "diningRoom": "1",
+          "wifiSpeed": "70",
+          "unitReady": "5",
+          "refrigerator": "2",
+          "television": "6"
+        },
+        "photos": {
+          "photo1": "assets/images/StaysHome/photo1.jpg",
+          "photo2": "assets/images/StaysHome/photo2.jpg",
+          "photo3": "assets/images/StaysHome/photo3.jpg"
+        },
+        "testimonial": {
+          "group": "Happy Family",
+          "stars": 5,
+          "text": "As a wife I can pick a great trip with my own lovely family ... thank you!",
+          "author": "Mary",
+          "img": "assets/images/StaysHome/family.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "icons",
+    "icons": [
+      
+    ]
+  },
+  {
+    "id": "treasuresToChoose",
+    "treasures": [
+
+    ]
+  }
+]
