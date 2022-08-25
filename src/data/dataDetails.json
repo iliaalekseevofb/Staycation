@@ -499,14 +499,15 @@
   },
   {
     "id": "icons",
-    "icons": [
-      
-    ]
-  },
-  {
-    "id": "treasuresToChoose",
-    "treasures": [
-
-    ]
+    "icons": {
+      "bedroom": "assets/icons/bedroom.svg",
+      "livingRoom": "assets/icons/livingRoom.svg",
+      "bathroom": "assets/icons/bathroom.svg",
+      "diningRoom": "assets/icons/diningRoom.svg",
+      "wifi": "assets/icons/wifi.svg",
+      "unitReady": "assets/icons/unitReady.svg",
+      "refrigerator": "assets/icons/refrigerator.svg",
+      "television": "assets/icons/television.svg"
+    }
   }
 ]

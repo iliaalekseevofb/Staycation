@@ -5,7 +5,9 @@ const Details = () => {
   const {id} = useParams(); // String
 
   return (
-    <div>{id}</div>
+    <div>
+      
+    </div>
   )
 }
 
