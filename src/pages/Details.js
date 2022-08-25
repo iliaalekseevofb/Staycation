@@ -8,7 +8,7 @@ const Details = () => {
   return (
     <div>
       <Title id={id}/>
-      <Gallery />
+      <Gallery id={id} />
       <div>
         <About />
         <Booking />
