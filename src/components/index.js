@@ -10,3 +10,4 @@ export {default as About} from './Details/About';
 export {default as Booking} from './Details/Booking';
 export {default as Treasures} from './Details/Treasures';
 export {default as ScrollToTop} from './Common/ScrollToTop';
+export {default as Slider} from './Details/Slider';

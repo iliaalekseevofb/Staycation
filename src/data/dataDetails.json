@@ -18,11 +18,11 @@
           "refrigerator": "1",
           "television": "2"
         },
-        "photos": {
-          "photo1": "assets/images/BlueOriginFams/photo1.jpg",
-          "photo2": "assets/images/BlueOriginFams/photo2.jpg",
-          "photo3": "assets/images/BlueOriginFams/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/BlueOriginFams/photo1.jpg",
+          "assets/images/BlueOriginFams/photo2.jpg",
+          "assets/images/BlueOriginFams/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -47,11 +47,11 @@
           "refrigerator": "1",
           "television": "1"
         },
-        "photos": {
-          "photo1": "assets/images/OceanLand/photo1.jpg",
-          "photo2": "assets/images/OceanLand/photo2.jpg",
-          "photo3": "assets/images/OceanLand/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/OceanLand/photo1.jpg",
+          "assets/images/OceanLand/photo2.jpg",
+          "assets/images/OceanLand/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -76,11 +76,11 @@
           "refrigerator": "1",
           "television": "4"
         },
-        "photos": {
-          "photo1": "assets/images/StarkHouse/photo1.jpg",
-          "photo2": "assets/images/StarkHouse/photo2.jpg",
-          "photo3": "assets/images/StarkHouse/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/StarkHouse/photo1.jpg",
+          "assets/images/StarkHouse/photo2.jpg",
+          "assets/images/StarkHouse/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -105,11 +105,11 @@
           "refrigerator": "2",
           "television": "3"
         },
-        "photos": {
-          "photo1": "assets/images/VinnaVill/photo1.jpg",
-          "photo2": "assets/images/VinnaVill/photo2.jpg",
-          "photo3": "assets/images/VinnaVill/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/VinnaVill/photo1.jpg",
+          "assets/images/VinnaVill/photo2.jpg",
+          "assets/images/VinnaVill/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -134,11 +134,11 @@
           "refrigerator": "2",
           "television": "4"
         },
-        "photos": {
-          "photo1": "assets/images/Bobox/photo1.jpg",
-          "photo2": "assets/images/Bobox/photo2.jpg",
-          "photo3": "assets/images/Bobox/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/Bobox/photo1.jpg",
+          "assets/images/Bobox/photo2.jpg",
+          "assets/images/Bobox/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -163,11 +163,11 @@
           "refrigerator": "2",
           "television": "5"
         },
-        "photos": {
-          "photo1": "assets/images/TabbyTown/photo1.jpg",
-          "photo2": "assets/images/TabbyTown/photo2.jpg",
-          "photo3": "assets/images/TabbyTown/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/TabbyTown/photo1.jpg",
+          "assets/images/TabbyTown/photo2.jpg",
+          "assets/images/TabbyTown/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -192,11 +192,11 @@
           "refrigerator": "1",
           "television": "2"
         },
-        "photos": {
-          "photo1": "assets/images/Anggana/photo1.jpg",
-          "photo2": "assets/images/Anggana/photo2.jpg",
-          "photo3": "assets/images/Anggana/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/Anggana/photo1.jpg",
+          "assets/images/Anggana/photo2.jpg",
+          "assets/images/Anggana/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -221,11 +221,11 @@
           "refrigerator": "3",
           "television": "6"
         },
-        "photos": {
-          "photo1": "assets/images/SeattleRain/photo1.jpg",
-          "photo2": "assets/images/SeattleRain/photo2.jpg",
-          "photo3": "assets/images/SeattleRain/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/SeattleRain/photo1.jpg",
+          "assets/images/SeattleRain/photo2.jpg",
+          "assets/images/SeattleRain/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -250,11 +250,11 @@
           "refrigerator": "1",
           "television": "2"
         },
-        "photos": {
-          "photo1": "assets/images/WoddenPit/photo1.jpg",
-          "photo2": "assets/images/WoddenPit/photo2.jpg",
-          "photo3": "assets/images/WoddenPit/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/WoddenPit/photo1.jpg",
+          "assets/images/WoddenPit/photo2.jpg",
+          "assets/images/WoddenPit/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -279,11 +279,11 @@
           "refrigerator": "1",
           "television": "2"
         },
-        "photos": {
-          "photo1": "assets/images/GreenPark/photo1.jpg",
-          "photo2": "assets/images/GreenPark/photo2.jpg",
-          "photo3": "assets/images/GreenPark/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/GreenPark/photo1.jpg",
+          "assets/images/GreenPark/photo2.jpg",
+          "assets/images/GreenPark/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -308,11 +308,11 @@
           "refrigerator": "1",
           "television": "4"
         },
-        "photos": {
-          "photo1": "assets/images/PodoWae/photo1.jpg",
-          "photo2": "assets/images/PodoWae/photo2.jpg",
-          "photo3": "assets/images/PodoWae/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/PodoWae/photo1.jpg",
+          "assets/images/PodoWae/photo2.jpg",
+          "assets/images/PodoWae/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -337,11 +337,11 @@
           "refrigerator": "2",
           "television": "5"
         },
-        "photos": {
-          "photo1": "assets/images/SilverRain/photo1.jpg",
-          "photo2": "assets/images/SilverRain/photo2.jpg",
-          "photo3": "assets/images/SilverRain/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/SilverRain/photo1.jpg",
+          "assets/images/SilverRain/photo2.jpg",
+          "assets/images/SilverRain/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -366,11 +366,11 @@
           "refrigerator": "1",
           "television": "2"
         },
-        "photos": {
-          "photo1": "assets/images/Cashville/photo1.jpg",
-          "photo2": "assets/images/Cashville/photo2.jpg",
-          "photo3": "assets/images/Cashville/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/Cashville/photo1.jpg",
+          "assets/images/Cashville/photo2.jpg",
+          "assets/images/Cashville/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -395,11 +395,11 @@
           "refrigerator": "1",
           "television": "3"
         },
-        "photos": {
-          "photo1": "assets/images/PSWood/photo1.jpg",
-          "photo2": "assets/images/PSWood/photo2.jpg",
-          "photo3": "assets/images/PSWood/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/PSWood/photo1.jpg",
+          "assets/images/PSWood/photo2.jpg",
+          "assets/images/PSWood/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -424,11 +424,11 @@
           "refrigerator": "1",
           "television": "2"
         },
-        "photos": {
-          "photo1": "assets/images/OneFive/photo1.jpg",
-          "photo2": "assets/images/OneFive/photo2.jpg",
-          "photo3": "assets/images/OneFive/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/OneFive/photo1.jpg",
+          "assets/images/OneFive/photo2.jpg",
+          "assets/images/OneFive/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -453,11 +453,11 @@
           "refrigerator": "2",
           "television": "3"
         },
-        "photos": {
-          "photo1": "assets/images/Minimal/photo1.jpg",
-          "photo2": "assets/images/Minimal/photo2.jpg",
-          "photo3": "assets/images/Minimal/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/Minimal/photo1.jpg",
+          "assets/images/Minimal/photo2.jpg",
+          "assets/images/Minimal/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
@@ -482,11 +482,11 @@
           "refrigerator": "2",
           "television": "6"
         },
-        "photos": {
-          "photo1": "assets/images/StaysHome/photo1.jpg",
-          "photo2": "assets/images/StaysHome/photo2.jpg",
-          "photo3": "assets/images/StaysHome/photo3.jpg"
-        },
+        "photos": [
+          "assets/images/StaysHome/photo1.jpg",
+          "assets/images/StaysHome/photo2.jpg",
+          "assets/images/StaysHome/photo3.jpg"
+        ],
         "testimonial": {
           "group": "Happy Family",
           "stars": 5,
