@@ -4,7 +4,6 @@ import { FiMenu } from 'react-icons/fi';
 import dataCommon from '../../data/dataCommon.json';
 
 const navbarContent = [
-  ['Home', '#home'],
   ['Categories', '#categories'],
   ['Testimonials', '#testimonials'],
   ['Agents', '#agents']
@@ -26,6 +25,7 @@ const Navbar = () => {
       <div className='w-full max-w-screen-2xl flex justify-between items-center'>
         <Link to='/'><img src={dataCommon[0].icon} alt='logo' /></Link>
         <div className='w-[480px] hidden md:flex justify-between items-center text-lg'>
+          <Link to='/' className='text-secondary hover:text-primary duration-200'>Home</Link>
           {navbarContent.map((item, index) => (
             <a key={index} href={item[1]} className='text-secondary hover:text-primary duration-200'>{item[0]}</a>
           ))}
@@ -35,6 +35,7 @@ const Navbar = () => {
             <FiMenu className='text-secondary hover:text-primary duration-200' size={32} />
           </button>
           <div className={`absolute z-30 ${toggleMenu ? 'block' : 'hidden'} top-20 left-0 right-0 flex flex-col justify-center items-start bg-neutral-100`}>
+            <Link onClick={() => setToggleMenu(false)} to='/' className='w-full px-5 py-3 text-lg text-secondary hover:text-primary duration-200 border-b border-neutral-200'>Home</Link>
             {navbarContent.map((item, index) => (
               <a key={index} onClick={() => setToggleMenu(false)} href={item[1]} className='w-full px-5 py-3 text-lg text-secondary hover:text-primary duration-200 border-b border-neutral-200'>{item[0]}</a>
             ))}
