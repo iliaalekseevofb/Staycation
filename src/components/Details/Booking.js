@@ -44,7 +44,7 @@ const Booking = ({id}) => {
           </div>
           <div className='mb-4'>
             <h5 className='mb-2 text-lg text-secondary font-medium'>Pick a date</h5>
-            <div className='w-full h-16 bg-neutral-100 rounded-md flex justify-start items-center'>
+            <div className='w-full h-16 rounded-md flex justify-start items-center bg-neutral-100'>
               <button className='w-16 mr-6 xl:mr-8 h-full flex justify-center items-center bg-secondary rounded-md hover:brightness-90 duration-200'>
                 <BsCalendarWeek className='text-white' size={32}/>
               </button>
