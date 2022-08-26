@@ -20,13 +20,13 @@ const Slider = ({id}) => {
       setSlideIndex(2)
     }
   }
-  
+
   const moveDot = index => {
     setSlideIndex(index)
   }
 
   return (
-    <div className='block sm:hidden relative w-full h-[320px] rounded-xl overflow-hidden'>
+    <div className='w-full h-[320px] relative block sm:hidden rounded-xl overflow-hidden'>
       {dataDetails[0].places && dataDetails[0].places.map((item, index) => {
         return (item.id === parseInt(id) && 
           <div key={index}>
@@ -38,15 +38,15 @@ const Slider = ({id}) => {
           </div>
         )
       })}
-      <button onClick={nextSlide} className='w-[60px] h-[60px] rounded-full absolute z-20 flex justify-center items-center cursor-pointer top-[43%] right-4 bg-gradient-to-t from-arrowGradient to-arrowGradient hover:bg-white'>
+      <button onClick={nextSlide} className='w-[60px] h-[60px] absolute top-[43%] right-4 z-20 flex justify-center items-center rounded-full bg-arrowGradient hover:bg-white cursor-pointer '>
         <IoIosArrowForward className='text-secondary' size={26} />
       </button>
-      <button onClick={prevSlide} className='w-[60px] h-[60px] rounded-full absolute z-20 flex justify-center items-center cursor-pointer top-[43%] left-4 bg-gradient-to-t from-arrowGradient to-arrowGradient hover:bg-white'>
+      <button onClick={prevSlide} className='w-[60px] h-[60px] absolute top-[43%] left-4 z-20 flex justify-center items-center rounded-full bg-arrowGradient hover:bg-white cursor-pointer'>
         <IoIosArrowBack className='text-secondary' size={26} />
       </button>
-      <div className='absolute flex z-20 bottom-[10px] left-[50%] -translate-x-[50%]'>
+      <div className='absolute flex left-[50%] bottom-[10px] -translate-x-[50%] z-20'>
       {Array.from({length: 3}).map((item, index) => (
-        <div key={index} onClick={() => {moveDot(index)}} className={slideIndex === index ? 'bg-white w-[15px] h-[15px] rounded-full mx-[5px] cursor-pointer' : 'bg-gradient-to-b from-dotsGradient to-dotsGradient w-[15px] h-[15px] rounded-full mx-[5px] cursor-pointer'}></div>
+        <div key={index} onClick={() => {moveDot(index)}} className={slideIndex === index ? 'w-[15px] h-[15px] mx-[5px] rounded-full bg-white cursor-pointer' : 'w-[15px] h-[15px] mx-[5px] bg-dotsGradient rounded-full cursor-pointer'}></div>
       ))}
       </div>
     </div>
