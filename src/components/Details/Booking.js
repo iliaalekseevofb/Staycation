@@ -57,7 +57,7 @@ const Booking = ({id}) => {
             <span className='mr-1 text-neutral-400'>You will pay</span>
             <span className='font-medium text-secondary'>$</span>
             <span className='font-medium text-secondary'>{item.price * nights}</span>
-            <span className='ml-1font-medium text-secondary'>USD</span>
+            <span className='ml-1 font-medium text-secondary'>USD</span>
           </div>
           <button className='w-full h-16 bg-primary shadow-buttonShadow rounded-md text-xl lg:text-lg 2xl:text-xl text-white hover:brightness-90 duration-200'>
             Continue to book

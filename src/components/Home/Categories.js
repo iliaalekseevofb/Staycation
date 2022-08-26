@@ -11,7 +11,7 @@ const Categories = () => {
             <h3 className='mb-5 text-secondary text-3xl font-medium'>{item.title}</h3>
             <div className='grid grid-cols-1 grid-flow-row sm:grid-cols-2 xl:grid-cols-4 sm:grid-rows-2 xl:grid-rows-1 gap-6'>
               {item.cards.map((card, innerIndex) => (
-                <Link key={innerIndex} className='relative' to={`place${card.id.toString()}`}>
+                <Link key={innerIndex} className='relative' to={`/place${card.id.toString()}`}>
                   <div className='w-full h-56 bg-black rounded-xl overflow-hidden'>
                     <img className='w-full h-full object-cover transition ease-in-out duration-500 hover:scale-125' src={card.img} alt={card.title} />
                   </div>
