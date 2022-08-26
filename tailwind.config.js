@@ -10,6 +10,8 @@ module.exports = {
         thirdly: '#FF498B',
         'dotsGradient': 'rgba(255, 255, 255, 0.5)',
         'arrowGradient': 'rgba(255, 255, 255, 0.8)',
+        'buttonGradient': 'rgba(255, 255, 255, 0.1)',
+        'modalGradient': 'rgba(0, 0, 0, 0.8)'
       },
       boxShadow: {
         'buttonShadow': '0px 8px 15px 0px #3252DF4D'

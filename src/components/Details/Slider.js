@@ -4,6 +4,7 @@ import dataDetails from '../../data/dataDetails.json';
 
 const Slider = ({id}) => {
   const [slideIndex, setSlideIndex] = useState(0);
+
   const nextSlide = () => {
     if (slideIndex !== 2) {
       setSlideIndex(slideIndex + 1);
@@ -11,6 +12,7 @@ const Slider = ({id}) => {
       setSlideIndex(0);
     }
   }
+  
   const prevSlide = () => {
     if (slideIndex !== 0) {
       setSlideIndex(slideIndex - 1)
@@ -18,6 +20,7 @@ const Slider = ({id}) => {
       setSlideIndex(2)
     }
   }
+  
   const moveDot = index => {
     setSlideIndex(index)
   }
