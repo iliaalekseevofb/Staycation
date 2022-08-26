@@ -11,7 +11,7 @@ const App = () => {
     <div className='app'>
       <Navbar />
       <Routes>
-        <Route exact path='/Staycation' element={
+        <Route exact path='/' element={
           <React.Suspense fallback={<Loading />}> 
             <LazyHome />
           </React.Suspense>
