@@ -10,7 +10,7 @@ const MostPicked = () => {
         <div className='grid grid-rows-5 sm:grid-rows-3 lg:grid-rows-2 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>
           {dataHome[1].cards && dataHome[1].cards.map((item, index) => (
             <div key={index} className={`relative max-h-72 lg:max-h-full ${index === 0 ? 'col-span-1 sm:col-span-2 lg:col-span-1 row-span-1 lg:row-span-2 rounded-xl overflow-hidden' : 'col-span-1 lg:row-span-1 rounded-xl overflow-hidden'}`}>
-              <Link to={`place${item.id.toString()}`}>
+              <Link to={`/place${item.id.toString()}`}>
                 <img src={item.img} className='relative z-20 w-full h-full object-cover rounded-xl brightness-90 transition ease-in-out duration-500 hover:scale-125' alt='...' />
                 <div className='absolute z-30 min-w-[180px] w-1/2 h-12 top-0 right-0 flex justify-center items-center rounded-tr-xl rounded-bl-xl bg-thirdly text-white text-lg'>
                   <span>$</span>
