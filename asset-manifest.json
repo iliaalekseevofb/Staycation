@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Staycation/static/css/main.3fa438f1.css",
-    "main.js": "/Staycation/static/js/main.a6574bf3.js",
+    "main.js": "/Staycation/static/js/main.a30104a6.js",
     "static/js/266.ff07a9ac.chunk.js": "/Staycation/static/js/266.ff07a9ac.chunk.js",
     "static/js/145.beb20730.chunk.js": "/Staycation/static/js/145.beb20730.chunk.js",
     "static/js/193.ba64aa08.chunk.js": "/Staycation/static/js/193.ba64aa08.chunk.js",
     "index.html": "/Staycation/index.html",
     "main.3fa438f1.css.map": "/Staycation/static/css/main.3fa438f1.css.map",
-    "main.a6574bf3.js.map": "/Staycation/static/js/main.a6574bf3.js.map",
+    "main.a30104a6.js.map": "/Staycation/static/js/main.a30104a6.js.map",
     "266.ff07a9ac.chunk.js.map": "/Staycation/static/js/266.ff07a9ac.chunk.js.map",
     "145.beb20730.chunk.js.map": "/Staycation/static/js/145.beb20730.chunk.js.map",
     "193.ba64aa08.chunk.js.map": "/Staycation/static/js/193.ba64aa08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fa438f1.css",
-    "static/js/main.a6574bf3.js"
+    "static/js/main.a30104a6.js"
   ]
 }
