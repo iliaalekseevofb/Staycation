@@ -8,9 +8,9 @@ const Main = () => {
         <div className='w-full mt-8 lg:mt-0 flex flex-col justify-center items-center lg:block lg:w-auto'>
           <h1 className='w-full lg:w-[560px] 2xl:w-[605px] mb-6 text-secondary text-center lg:text-left text-3xl sm:text-4xl lg:text-5xl 2xl:text-6xl lg:leading-tight 2xl:leading-snug font-bold'>Forget Busy Work. Start Next Vacation</h1>
           <p className='w-full lg:w-[420px] pb-6 sm:pb-10 text-neutral-400 text-center lg:text-left text-xl lg:text-lg 2xl:text-xl font-light'>We provide what you need to enjoy your holiday with family. Time to make another memorable moments.</p>
-          <button className='w-[220px] lg:w-[180px] 2xl:w-[220px] h-[60px] lg:h-[50px] 2xl:h-[60px] mb-8 sm:mb-16 lg:mb-20 bg-primary shadow-buttonShadow rounded-md text-xl lg:text-lg 2xl:text-xl text-white hover:brightness-90 duration-200'>
-            <a href='#categories' className='w-full h-full'>Show Me Now</a>
-          </button>
+          <div className='mt-2 mb-8 sm:mb-16 lg:mb-20'>
+            <a href='#categories' className='w-full h-full px-8 py-4 bg-primary shadow-buttonShadow rounded-md text-xl lg:text-lg 2xl:text-xl text-white hover:brightness-90 duration-200'>Show Me Now</a>
+          </div>
           <div className='md:w-full lg:w-[440px] 2xl:w-[480px] hidden md:flex justify-between items-center'>
             {dataHome[0].icons && dataHome[0].icons.map((item, index) => (
               <div key={index} className='flex lg:block'>
