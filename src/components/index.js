@@ -12,3 +12,4 @@ export {default as Treasures} from './Details/Treasures';
 export {default as ScrollToTop} from './Common/ScrollToTop';
 export {default as Slider} from './Details/Slider';
 export {default as LightBox} from './Details/LightBox';
+export {default as Loading} from './Common/Loading';
