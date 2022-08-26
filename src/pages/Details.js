@@ -10,9 +10,9 @@ const Details = () => {
       <Title id={id}/>
       <Gallery id={id} />
       <div className='w-full px-5 sm:px-10 pt-10 2xl:pt-16 flex justify-center items-center'>
-        <div className='w-full max-w-screen-2xl grid grid-cols-1 lg:grid-cols-5 grid-rows-2 lg:grid-rows-1 gap-6'>
+        <div className='w-full max-w-screen-2xl flex flex-col justify-center items-start lg:grid grid-cols-1 lg:grid-cols-5 grid-rows-2 lg:grid-rows-1 gap-6'>
           <About id={id}/>
-          <Booking />
+          <Booking id={id}/>
         </div>
       </div>
       <Treasures />

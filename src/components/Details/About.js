@@ -3,7 +3,7 @@ import dataDetails from '../../data/dataDetails.json';
 
 const About = ({id}) => {
   return (
-    <div className='w-full h-full lg:col-span-3'>
+    <div className='w-full h-full lg:col-span-3 mb-4 lg:mb-0'>
       {dataDetails[0].places && dataDetails[0].places.map((item, index) => {
         return (item.id === parseInt(id) &&
         <div key={index}>

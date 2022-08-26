@@ -13,7 +13,7 @@ const Gallery = ({id}) => {
             <div key={index} className='sm:h-[320px] md:h-[400px] lg:h-[540px] xl:h-[620px] hidden sm:grid grid-cols-1 sm:grid-cols-2 grid-rows-3 sm:grid-rows-2 gap-4'>
               {item.photos.map((photo, photoIndex) => (
                 <div key={photoIndex} className={`w-full h-full ${photoIndex === 0 && 'row-span-1 sm:row-span-2'} rounded-xl overflow-hidden`}>
-                  <img onClick={() => setSlideIndex(photoIndex)} className='w-full h-full object-cover hover:brightness-75 duration-200 cursor-pointer' src={photo} alt={item.title} />
+                  <img onClick={() => setSlideIndex(photoIndex)} className='w-full h-full object-cover transition ease-in-out duration-500 hover:scale-125 cursor-pointer' src={photo} alt={item.title} />
                 </div>
               ))}
             </div>    
