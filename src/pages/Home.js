@@ -7,7 +7,7 @@ const Home = () => {
       <Main />
       <MostPicked />
       <Categories />
-      <Testimonials />
+      <Testimonials id="1"/>
     </div>
   )
 }

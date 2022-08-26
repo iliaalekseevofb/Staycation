@@ -16,7 +16,7 @@ const Details = () => {
         </div>
       </div>
       <Treasures id={id} />
-      <Testimonials />
+      <Testimonials id={id} />
     </div>
   )
 }

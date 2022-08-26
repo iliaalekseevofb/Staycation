@@ -12,33 +12,33 @@ const Treasures = ({id}) => {
             <div key={index} className='w-full h-full grid grid-cols-1 grid-flow-row sm:grid-cols-2 xl:grid-cols-4 sm:grid-rows-2 xl:grid-rows-1 gap-6'>
               {Array.from({length: 4}).map((innerItem, innerIndex) => (
                 <Link key={innerIndex} className='relative' 
-                  to={parseInt(id) + 4 <= 17 
+                  to={parseInt(id)+4 <= 17 
                   ? `/place${[parseInt(id)+innerIndex+1].toString()}` 
                   : `/place${[innerIndex + 1].toString()}`}
                 >
                   <div className='w-full h-56 bg-black rounded-xl overflow-hidden'>
                     <img className='w-full h-full object-cover transition ease-in-out duration-500 hover:scale-125' 
-                      src={parseInt(id) + 4 <= 17 
+                      src={parseInt(id)+4 <= 17 
                         ? dataDetails[0].places[parseInt(id)+innerIndex].photos[0] 
                         : dataDetails[0].places[innerIndex].photos[0]} 
-                      alt={parseInt(id) + 4 <= 17 
+                      alt={parseInt(id)+4 <= 17 
                         ? dataDetails[0].places[parseInt(id)+innerIndex].title
                         : dataDetails[0].places[innerIndex].title} 
                     />
                   </div>
                   <div className='pt-4'>
                     <h3 className='text-2xl text-secondary'>
-                      {parseInt(id) + 4 <= 17 
+                      {parseInt(id)+4 <= 17 
                       ? dataDetails[0].places[parseInt(id)+innerIndex].title 
                       : dataDetails[0].places[innerIndex].title}
                     </h3>
                     <h5 className='text-lg font-light text-neutral-300'>
-                      {parseInt(id) + 4 <= 17 
+                      {parseInt(id)+4 <= 17 
                       ? dataDetails[0].places[parseInt(id)+innerIndex].title 
                       : dataDetails[0].places[innerIndex].title}
                     </h5>
                   </div>
-                  {(parseInt(id) + 4 <= 17 
+                  {(parseInt(id)+4 <= 17 
                     ? dataDetails[0].places[parseInt(id)+innerIndex].popularChoice === 1 
                     : dataDetails[0].places[innerIndex].popularChoice === 1
                   ) && 
