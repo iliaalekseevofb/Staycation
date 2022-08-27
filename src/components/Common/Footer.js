@@ -10,7 +10,7 @@ const footerContent = [
 
 const Footer = () => {
   return (
-    <div id='agents' className='w-full px-5 sm:px-10 py-8 sm:py-16 flex justify-center items-center border-t border-neutral-200'>
+    <div id='agents' className='w-full px-5 sm:px-10 py-8 sm:py-12 flex justify-center items-center border-t border-neutral-200'>
       <div className='w-full max-w-screen-xl flex flex-col justify-between items-center'>
         <div className='w-full sm:grid grid-cols-2 lg:grid-cols-4 grid-rows-2 lg:grid-rows-1 gap-16 mb-8 sm:mb-16'>
           <div className='mb-8 sm:mb-0'>

@@ -5,7 +5,7 @@ import dataDetails from '../../data/dataDetails.json';
 const Treasures = ({id}) => {
   return (
     <div className='w-full px-5 sm:px-10 pt-5 sm:pt-10 flex justify-center items-center'>
-      <div className='w-full max-w-screen-2xl'>
+      <div className='w-full max-w-screen-xl'>
         <h3 className='mb-6 lg:mb-8 text-2xl text-secondary font-medium'>Treasures to choose</h3>
         {dataDetails[0].places && dataDetails[0].places.map((item, index) => {
           return (item.id === parseInt(id) &&
@@ -27,12 +27,12 @@ const Treasures = ({id}) => {
                     />
                   </div>
                   <div className='pt-4'>
-                    <h3 className='text-2xl text-secondary'>
+                    <h3 className='text-xl text-secondary'>
                       {parseInt(id)+4 <= 17 
                       ? dataDetails[0].places[parseInt(id)+innerIndex].title 
                       : dataDetails[0].places[innerIndex].title}
                     </h3>
-                    <h5 className='text-lg font-light text-neutral-300'>
+                    <h5 className='text-md font-light text-neutral-300'>
                       {parseInt(id)+4 <= 17 
                       ? dataDetails[0].places[parseInt(id)+innerIndex].title 
                       : dataDetails[0].places[innerIndex].title}
@@ -42,7 +42,7 @@ const Treasures = ({id}) => {
                     ? dataDetails[0].places[parseInt(id)+innerIndex].popularChoice === 1 
                     : dataDetails[0].places[innerIndex].popularChoice === 1
                   ) && 
-                    <div className='absolute z-30 min-w-[180px] w-1/2 h-12 top-0 right-0 flex justify-center items-center rounded-tr-xl rounded-bl-xl bg-thirdly text-white text-lg'>
+                    <div className='absolute z-30 min-w-[180px] w-1/2 h-12 top-0 right-0 flex justify-center items-center rounded-tr-xl rounded-bl-xl bg-thirdly text-white text-md'>
                       <p className='pr-1'>Popular Choice</p>
                     </div>
                   }
