@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkstaycation=self.webpackChunkstaycation||[]).push([[193],{193:function(e,s,t){t.r(s);t(791);var c=t(184);s.default=function(){return(0,c.jsx)("div",{className:"w-full px-5 sm:px-10 py-10 flex justify-center items-center",children:(0,c.jsx)("div",{className:"w-full max-w-screen-2xl flex justify-center items-center",children:(0,c.jsx)("img",{src:"assets/images/404-V3.svg",alt:"Error"})})})}}}]);
-//# sourceMappingURL=193.ba64aa08.chunk.js.map
