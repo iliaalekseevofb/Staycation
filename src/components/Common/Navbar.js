@@ -22,9 +22,9 @@ const Navbar = () => {
 
   return (
     <div className='w-full h-20 px-5 sm:px-10 flex justify-center items-center border-b border-neutral-200'>
-      <div className='w-full max-w-screen-2xl flex justify-between items-center'>
+      <div className='w-full max-w-screen-xl flex justify-between items-center'>
         <Link to='/'><img src={dataCommon[0].icon} alt='logo' /></Link>
-        <div className='w-[480px] hidden md:flex justify-between items-center text-lg'>
+        <div className='w-[440px] hidden md:flex justify-between items-center'>
           <Link to='/' className='text-secondary hover:text-primary duration-200'>Home</Link>
           {navbarContent.map((item, index) => (
             <a key={index} href={item[1]} className='text-secondary hover:text-primary duration-200'>{item[0]}</a>
